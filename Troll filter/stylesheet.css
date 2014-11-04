@@ -1,0 +1,62 @@
+body
+{
+    margin-left: 10%;
+    width: 80%;
+    font-family: 'Roboto Slab', serif;
+}
+
+img
+{
+    width: 100%;  
+    border-bottom: 1px solid #00297A;
+    padding-bottom: 5vh;
+}
+
+textarea
+{
+    width: 97%;
+	height: 120px;
+	padding: 5px;
+    border: 5px solid #00297A;
+    outline: none;
+    resize: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+#knap
+{
+    border-radius: 0.1px;
+    border: none;
+    background-color: #00297A;
+    color: white;
+    padding: 10px;
+    outline: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+#system
+{
+    margin-top: 3%;
+    margin-left: 2%;
+    width: 60%;
+}
+
+p
+{
+    border-bottom: 1px solid #00297A;  
+    padding-bottom: 3vh;
+    text-align: justify;
+}
+
+#fake
+{
+    margin-top: 5vh;
+}
+
+span
+{
+    color: grey;
+    font-style: italic;
+    font-size: 80%;
+    float: right;
+}
